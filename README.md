@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Bishal 👋
 
-<!--
-**bishalsince2003/bishalsince2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Undergraduate
 
-Here are some ideas to get you started:
+🐍 Currently doing 100 Days of Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Software Development, AI and Data Science
+
+## Tech Stack
+- Python
+- C/C++
+- SQL
+- Git
+- GitHub
+
+## Current Goals
+- Complete 100 Days of Python
+- Strengthen DSA
