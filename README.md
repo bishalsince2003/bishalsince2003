@@ -2,7 +2,7 @@
 
 🎓 CSE Undergraduate
 
-🐍 Currently doing 100 Days of Python
+🐍 Currently doing 100 Days of Code: The Complete Python Pro Bootcamp
 
 💻 Interested in Software Development, AI and Data Science
 
