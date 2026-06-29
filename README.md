@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:92FE9D&text=Bishal%20Kumar&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn"/>
+# 👋 Hey, I'm Bishal Kumar
 
-<h2>👋 Hi, I'm Bishal Kumar</h2>
+### Python Developer • Software Engineer • Problem Solver
 
-<p>
-Computer Science Engineering Graduate • Python Developer • Software Development Enthusiast
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=1200&color=00E7FF&center=true&vCenter=true&width=650&lines=Building+100+Days+of+Python;Learning+by+Building+Real+Projects;Always+Curious.+Always+Coding."/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+100+Days+of+Python;Learning+by+Building+Projects;Always+Improving..."/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=bishalsince2003&label=Profile+Views&style=flat-square&color=0891b2"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to-Learning-00C853?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=bishalsince2003&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -94,25 +94,17 @@ Computer Science Engineering Graduate • Python Developer • Software Developm
 
 # 📬 Connect
 
-<div align="center">
-
+<p align="center">
 <a href="https://www.linkedin.com/in/bishal-kumar-54b410248">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
 <a href="mailto:bishalsinghtas@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://github.com/bishalsince2003">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
+</p>
 
 ---
 
