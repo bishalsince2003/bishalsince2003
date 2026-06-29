@@ -1,89 +1,130 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:0B132B,30:1C2541,65:3A506B,100:5BC0BE&text=Bishal%20Kumar&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B132B,50:1C2541,100:3A506B&text=Bishal%20Kumar&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
 
-<br>
+# 👋 Hi, I'm Bishal Kumar
 
-# 👋 Hello, I'm Bishal Kumar
+### Computer Science Engineering Graduate • Python Developer • Software Development Enthusiast
 
-### Computer Science Engineering Graduate • Python Developer • Future Backend Engineer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=5BC0BE&center=true&vCenter=true&width=700&lines=Building+Projects+That+Matter;Learning+Python+Through+Projects;Backend+Development+%7C+Automation;Always+Learning+Something+New"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=5BC0BE&center=true&vCenter=true&width=900&lines=Building+Projects+With+Purpose.;Learning+One+Commit+At+A+Time.;Python+%7C+Backend+%7C+Automation.;Consistency+Creates+Great+Developers."/>
+</div>
 
-<br>
+---
 
-<a href="https://github.com/bishalsince2003">
-<img src="https://img.shields.io/badge/GitHub-bishalsince2003-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## 🚀 About Me
 
-<a href="https://www.linkedin.com/in/bishal-kumar-54b410248">
-<img src="https://img.shields.io/badge/LinkedIn-Bishal%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+- 🎓 B.Tech graduate in **Computer Science Engineering**
+- 🐍 Currently building the **100 Days of Python** challenge
+- 💻 Interested in **Backend Development, Python, and Automation**
+- 🌱 I enjoy learning by building practical, real-world projects
+- 🚀 Always focused on writing cleaner code and improving every day
 
-<a href="mailto:bishalsinghtas@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
+
+## ⚡ Current Focus
+
+- Python Development
+- Backend Fundamentals
+- REST APIs
+- Automation
+- Data Structures & Problem Solving
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=bishalsince2003&style=for-the-badge&color=5BC0BE"/>
+### Web & Database
 
-<img src="https://img.shields.io/github/followers/bishalsince2003?style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://skillicons.dev/icons?i=html,css,mysql" />
 
-<img src="https://img.shields.io/github/stars/bishalsince2003?style=for-the-badge&label=Stars"/>
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </div>
 
 ---
 
-# 💫 Developer Snapshot
+## 🌟 Featured Projects
+
+### 🏛 DBT Agriculture System
+Government internship project for beneficiary management with authentication, CRUD operations, and MySQL integration.
+
+### 🐍 100 Days of Python
+A public learning journey focused on building Python projects consistently while strengthening programming fundamentals.
+
+### ☕ Coffee Machine Simulator
+An object-oriented Python application implementing inventory management and payment logic.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Prize** — Inter-College Arduino Project Competition
+- 🏅 **Top 5%** — NPTEL Compiler Design Certification
+- 🎓 Computer Science Engineering Graduate
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-| 👨‍💻 Profile | Information |
-|:------------|:------------|
-| **Name** | Bishal Kumar |
-| **Education** | B.Tech – Computer Science Engineering |
-| **Location** | Bihar, India 🇮🇳 |
-| **Current Focus** | Python • Backend Development • Automation |
-| **Learning** | 100 Days of Python |
-| **Interested In** | Software Engineering & Open Source |
-| **Motto** | *"Small improvements every day become extraordinary results."* |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bishalsince2003&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalsince2003&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=bishalsince2003&theme=github-dark&hide_border=true"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bishalsince2003&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌌 About Me
-
-I'm a Computer Science Engineering graduate who enjoys building software that is practical, clean, and useful.
-
-Instead of collecting certificates, I prefer building projects that strengthen my understanding of programming fundamentals.
-
-Currently, I'm focused on improving my Python skills through the **100 Days of Python** challenge while expanding my knowledge of backend development, automation, and software engineering principles.
-
-I believe every project is an opportunity to learn something new, and every Git commit is a step toward becoming a better developer.
-
----
-
-# ⚡ Current Mission
+## 📫 Let's Connect
 
 <div align="center">
 
-| 🎯 Goal | Status |
-|:---------|:------:|
-| 🐍 Complete 100 Days of Python | 🚧 In Progress |
-| 🚀 Build Production-Level Projects | 🔄 Ongoing |
-| 📚 Improve DSA & Problem Solving | 📖 Learning |
-| ⚙ Master Backend Development | 🚀 In Progress |
-| 🤝 Contribute to Open Source | 🎯 Planned |
+<a href="https://github.com/bishalsince2003">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/bishal-kumar-54b410248">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:bishalsinghtas@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
 
 </div>
 
 ---
 
-# 💭 Philosophy
+<div align="center">
 
-> **"I don't measure progress by the number of repositories I create. I measure it by how much I learn from every project I build."**
+> **"Consistency compounds. Every commit is a step forward."**
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B132B,50:1C2541,100:3A506B"/>
+
+</div>
