@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm Bishal Kumar
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:92FE9D&text=Bishal%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20|%20Software%20Development%20Enthusiast&descAlignY=60&animation=fadeIn"/>
 
 <br>
