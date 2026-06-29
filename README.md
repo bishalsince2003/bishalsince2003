@@ -1,114 +1,124 @@
-# Hi, I'm Bishal 👋
+<div align="center">
 
-🎓 Computer Science Engineering Undergraduate (CGPA: 8.68)
+# Hi 👋, I'm Bishal Kumar
 
-💻 Passionate about Software Development, Python, AI and Data Science
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Computer+Science+Graduate;Python+Developer;Full+Stack+Web+Developer;Building+Projects+Every+Day;Learning+Something+New+Every+Day" />
 
-🚀 Currently completing **100 Days of Code: The Complete Python Pro Bootcamp**
+<p>
+Passionate about building practical software, solving real-world problems, and continuously improving through hands-on projects.
+</p>
 
-📍 Patna, Bihar, India
+<img src="https://komarev.com/ghpvc/?username=bishalsince2003&label=Profile%20Views&color=0e75b6&style=flat" />
 
----
-
-## 👨‍💻 About Me
-
-* Computer Science Engineering student with strong programming fundamentals.
-* Interested in Software Development, AI, Data Analytics and Problem Solving.
-* Hands-on experience in Python, SQL, Web Development and Database Management.
-* Completed internship on the **DBT Agriculture System** at the Department of Agriculture, Government of Bihar.
-* Continuously building projects and improving development skills through practical learning.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
+
+* 🎓 Computer Science Engineering Graduate
+* 🐍 Currently completing the **100 Days of Python Challenge**
+* 💻 Interested in Python, Full Stack Development and Software Engineering
+* 🌱 Currently learning **Advanced Python, Object-Oriented Programming and Automation**
+* 🚀 Building projects to strengthen problem-solving and development skills
+* 📚 Always exploring new technologies and improving every day
+
+---
+
+# 🚀 Current Focus
+
+* ✅ Python
+* ✅ Object-Oriented Programming
+* ✅ Git & GitHub
+* ✅ SQL & Databases
+* ✅ Data Structures & Algorithms
+* 🔄 Full Stack Development
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
-* Python
-* Java
-* C
-* C++
-* SQL
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,mysql" />
+</p>
 
-### Web Development
+### Tools & Technologies
 
-* HTML
-* CSS
-* JavaScript
-
-### Databases
-
-* MySQL
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Linux
-* VS Code
-* PyCharm
-
-### Data & AI
-
-* Pandas
-* NumPy
-* Matplotlib
-* Basic Machine Learning Concepts
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 📌 Featured Repositories
 
-### 🌾 DBT Agriculture System
+⭐ **100 Days of Python Challenge**
 
-Integrated Beneficiary Management System developed during internship.
+A collection of progressively challenging Python projects built while learning Python from fundamentals to advanced concepts.
 
-**Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript
+⭐ **DBT Agriculture System**
 
-### 🎓 Academy.in – AI Powered Learning Management System
+A web-based project focused on beneficiary management and database operations.
 
-Learning platform integrating modern web technologies and AI-driven features.
-
-### 🐍 100 Days of Python
-
-Daily Python learning journey with hands-on projects and coding challenges.
-
-**Current Progress:** Day 16 / 100
-
-Completed Projects:
-
-* Caesar Cipher
-* Blind Auction
-* Calculator
-* Blackjack
-* Higher Lower Game
-* OOP Coffee Machine
+More projects coming soon...
 
 ---
 
-## 🏆 Achievements
+# 📊 GitHub Stats
 
-* Top 5% Performer in NPTEL Compiler Design Course
-* 1st Place – Arduino Based Inter-College Project Competition
-* Google Cloud Computing Foundation Certification
-* Generative AI Certification
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bishalsince2003&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🎯 Current Goals
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalsince2003&layout=compact&theme=tokyonight&hide_border=true"/>
 
-* Complete 100 Days of Python
-* Strengthen Data Structures & Algorithms
-* Build Full-Stack Projects
-* Prepare for Software Development Roles
-* Explore AI and Data Science Applications
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🔥 GitHub Streak
 
-📧 Email: [bishalsinghtas@gmail.com](mailto:bishalsinghtas@gmail.com)
+<p align="center">
 
-🔗 LinkedIn: https://www.linkedin.com/in/bishal-kumar-54b410248
+<img src="https://streak-stats.demolab.com?user=bishalsince2003&theme=tokyonight&hide_border=true"/>
 
-💻 GitHub: https://github.com/bishalsince2003
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+* ✅ Complete 100 Days of Python
+* ✅ Build production-quality Python projects
+* ✅ Strengthen DSA & Problem Solving
+* ✅ Learn APIs and Automation
+* ✅ Build Full Stack Applications
+* ✅ Contribute to Open Source
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://github.com/bishalsince2003">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Consistency beats intensity. One project every day is better than one big project every few months."*
+
+</div>
