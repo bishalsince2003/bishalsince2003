@@ -1,84 +1,100 @@
 <div align="center">
 
-# Hi 👋, I'm Bishal Kumar
+# 👋 Hi, I'm Bishal Kumar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Computer+Science+Graduate;Python+Developer;Full+Stack+Web+Developer;Building+Projects+Every+Day;Learning+Something+New+Every+Day" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:92FE9D&text=Bishal%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20|%20Software%20Development%20Enthusiast&descAlignY=60&animation=fadeIn"/>
 
-<p>
-Passionate about building practical software, solving real-world problems, and continuously improving through hands-on projects.
-</p>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=bishalsince2003&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Graduate;Python+Developer;Building+100+Python+Projects;Learning+Something+New+Every+Day;Future+Software+Engineer"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=bishalsince2003&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-* 🎓 Computer Science Engineering Graduate
-* 🐍 Currently completing the **100 Days of Python Challenge**
-* 💻 Interested in Python, Full Stack Development and Software Engineering
-* 🌱 Currently learning **Advanced Python, Object-Oriented Programming and Automation**
-* 🚀 Building projects to strengthen problem-solving and development skills
-* 📚 Always exploring new technologies and improving every day
+🎓 Computer Science Graduate
 
----
+🐍 Currently building **100 Python Projects** through the **100 Days of Python Challenge**
 
-# 🚀 Current Focus
+💻 Passionate about **Python, Software Development, Object-Oriented Programming and Full Stack Development**
 
-* ✅ Python
-* ✅ Object-Oriented Programming
-* ✅ Git & GitHub
-* ✅ SQL & Databases
-* ✅ Data Structures & Algorithms
-* 🔄 Full Stack Development
+🌱 Currently learning **Advanced Python, Automation, APIs and Problem Solving**
+
+🎯 My goal is to become a Software Engineer by continuously building real-world projects and improving every single day.
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Current Focus
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,mysql" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+* 🐍 Python Programming
+* ☕ Object-Oriented Programming (OOP)
+* 📊 Data Structures & Algorithms
+* 🗄️ SQL & Databases
+* 🌐 Full Stack Development
+* 🚀 Git & GitHub
 
 ---
 
-# 📌 Featured Repositories
+# 💻 Tech Stack
 
-⭐ **100 Days of Python Challenge**
+<div align="center">
 
-A collection of progressively challenging Python projects built while learning Python from fundamentals to advanced concepts.
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,mysql,git,github,vscode,linux"/>
 
-⭐ **DBT Agriculture System**
-
-A web-based project focused on beneficiary management and database operations.
-
-More projects coming soon...
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 📈 Current Learning Journey
 
-<p align="center">
+### 🐍 100 Days of Python Challenge
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bishalsince2003&show_icons=true&theme=tokyonight&hide_border=true"/>
+✅ **Completed : 18 / 100 Days**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalsince2003&layout=compact&theme=tokyonight&hide_border=true"/>
+```text
+██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 18%
+```
 
-</p>
+> Every new project introduces more advanced Python concepts and real-world applications than the previous one.
 
 ---
 
-# 🔥 GitHub Streak
+# ⭐ Featured Projects
+
+| Project                     | Description                                                |
+| --------------------------- | ---------------------------------------------------------- |
+| ☕ OOP Coffee Machine        | Coffee Machine Simulator using Object-Oriented Programming |
+| 🧠 Quiz Game                | Quiz Application built using Classes & Objects             |
+| 🎨 Hirst Painting Generator | Turtle Graphics + Image Color Extraction using Colorgram   |
+| 🎮 Blackjack Game           | Console-based Blackjack Card Game                          |
+| 🔐 Password Generator       | Random Password Generator using Python                     |
+
+> More exciting projects are added regularly as I progress through the challenge.
+
+---
+
+# 🛠 Skills Practiced
+
+* Python Programming
+* Object-Oriented Programming
+* Problem Solving
+* Functions & Modules
+* Lists, Tuples & Dictionaries
+* Loops & Conditional Statements
+* Turtle Graphics
+* External Python Libraries
+* Git & GitHub
+* SQL Fundamentals
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
 
@@ -86,29 +102,49 @@ More projects coming soon...
 
 </p>
 
+<br>
+
+<p align="center">
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bishalsince2003&theme=tokyo-night"/>
+
+</a>
+
+</p>
+
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals for 2026
 
-* ✅ Complete 100 Days of Python
-* ✅ Build production-quality Python projects
-* ✅ Strengthen DSA & Problem Solving
-* ✅ Learn APIs and Automation
-* ✅ Build Full Stack Applications
-* ✅ Contribute to Open Source
+* ✅ Complete 100 Days of Python Challenge
+* 🚀 Build Production-Quality Python Projects
+* 📚 Strengthen Data Structures & Algorithms
+* 🌐 Learn APIs & Automation
+* 🖥️ Develop Real-World Applications
+* 🤝 Start Contributing to Open Source
 
 ---
 
-# 🌐 Connect With Me
+# 📫 Connect With Me
 
-<p>
+<p align="center">
+
+<a href="mailto:bishalsinghtas@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+   
+
+<a href="https://www.linkedin.com/in/bishal-kumar-54b410248">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+   
 
 <a href="https://github.com/bishalsince2003">
 <img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 </p>
@@ -117,8 +153,12 @@ More projects coming soon...
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 💡 Quote of the Day
 
-*"Consistency beats intensity. One project every day is better than one big project every few months."*
+> **"Consistency beats intensity. Every project you build today becomes proof of your skills tomorrow."**
+
+⭐ **Thanks for visiting my profile!**
+
+If you like my work, feel free to explore my repositories and follow my learning journey.
 
 </div>
