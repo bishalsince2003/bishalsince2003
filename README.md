@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B132B,50:1C2541,100:3A506B&text=Bishal%20Kumar&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
 
-# 👋 Hi, I'm Bishal Kumar
+
 
 ### Computer Science Engineering Graduate • Python Developer • Software Development Enthusiast
 
