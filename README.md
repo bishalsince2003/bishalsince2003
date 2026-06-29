@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00C9FF,100:92FE9D&text=Bishal%20Kumar&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn"/>
@@ -13,7 +13,7 @@
 
 ## 👋 About
 
-```bash
+
 $ whoami
 
 Bishal Kumar
@@ -35,13 +35,13 @@ Problem Solving
 $ status
 
 Coding...
-````
+
 
 ---
 
 ## 🚀 Current Focus
 
-```text
+
 🐍 Python
 
 ☕ Object-Oriented Programming
@@ -53,7 +53,7 @@ Coding...
 🌐 Full Stack Development
 
 ⚡ Automation
-```
+
 
 ---
 
@@ -77,11 +77,11 @@ Coding...
 
 ## 🐍 100 Days of Python
 
-```text
+
 ██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Day 18 / 100
-```
+
 
 > Building one project every day. Learning something new every day.
 
