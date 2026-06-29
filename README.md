@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Bishal%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B2027,50:203A43,100:2C5364&text=Bishal%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
 # 👋 Hi, I'm Bishal Kumar
 
@@ -8,23 +8,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Building+100+Days+of+Python;Learning+Through+Projects;Writing+Clean+Code;Always+Curious.+Always+Building." />
 
-<br>
 
-<a href="https://github.com/bishalsince2003">
-<img src="https://img.shields.io/badge/GitHub-bishalsince2003-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bishal-kumar-54b410248">
-<img src="https://img.shields.io/badge/LinkedIn-Bishal%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bishalsinghtas@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=bishalsince2003&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -32,7 +16,7 @@
 
 # 🚀 About Me
 
-```python
+
 class BishalKumar:
 
     education = "B.Tech in Computer Science Engineering"
@@ -54,7 +38,7 @@ class BishalKumar:
     location = "Bihar, India"
 
     motto = "Consistency compounds. Every commit is progress."
-```
+
 
 ---
 
