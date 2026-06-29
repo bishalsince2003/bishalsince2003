@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Graduate;Python+Developer;Building+100+Python+Projects;Learning+Something+New+Every+Day;Future+Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Graduate;Python+Developer;Building+100+Python+Projects;Software+Development+Enthusiast;Always+Learning+Something+New"/>
 
 <br>
 
@@ -125,26 +125,20 @@
 
 ---
 
-# 📫 Connect With Me
+<h2 align="center">📬 Connect With Me</h2>
 
 <p align="center">
-
 <a href="mailto:bishalsinghtas@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
-
-   
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/bishal-kumar-54b410248">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
-
-   
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/bishalsince2003">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
-
 </p>
 
 ---
