@@ -1,9 +1,10 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00C9FF,100:92FE9D&text=Bishal%20Kumar&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn"/>
+# 👋 Hi, I'm Bishal Kumar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Python+Developer;Computer+Science+Engineering+Graduate;Building+100+Python+Projects;Software+Development+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Python+Developer;Computer+Science+Engineering+Graduate;Building+100+Python+Projects;Learning+Something+New+Every+Day"/>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=bishalsince2003&label=Profile+Views&style=flat-square&color=0891b2"/>
 
@@ -11,53 +12,37 @@
 
 ---
 
-## 👋 About
-
-
+```bash
 $ whoami
 
 Bishal Kumar
 
-$ education
+Computer Science Engineering Graduate
 
-B.Tech • Computer Science Engineering
+Python Developer
 
-$ currently
-
-🐍 100 Days of Python Challenge
-
-$ focus
-
-Python
-Software Development
-Problem Solving
-
-$ status
-
-Coding...
-
+Building practical software one project at a time.
+```
 
 ---
 
 ## 🚀 Current Focus
 
-
+```text
 🐍 Python
 
 ☕ Object-Oriented Programming
 
-📊 Data Structures & Algorithms
-
-🗄 SQL
+🧠 Problem Solving
 
 🌐 Full Stack Development
 
-⚡ Automation
-
+⚙️ Automation
+```
 
 ---
 
-## 🛠 Developer Toolbox
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -77,172 +62,85 @@ Coding...
 
 ## 🐍 100 Days of Python
 
-
+```
 ██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Day 18 / 100
+```
 
-
-> Building one project every day. Learning something new every day.
+> Building one Python project every day.
 
 ---
 
-## 🚀 Things I've Built
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### ☕ Coffee Machine
-Object-Oriented Programming  
-Resource Management • Classes • Objects
-
-</td>
-
-<td width="50%">
-
-### 🧠 Quiz Game
-Python OOP • Classes • Modules
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎨 Hirst Painting
-Turtle Graphics • Colorgram • RGB
-
-</td>
-
-<td width="50%">
-
-### 🎮 Blackjack
-Game Logic • Functions • Lists
-
-</td>
-</tr>
-</table>
-
-> More projects are continuously added as I progress through the **100 Days of Python Challenge.**
+| Project | Description |
+|---------|-------------|
+| ☕ Coffee Machine | Object-Oriented Programming |
+| 🧠 Quiz Game | Classes & Objects |
+| 🎨 Hirst Painting | Turtle Graphics & Colorgram |
+| 🎮 Blackjack | Python Game Logic |
 
 ---
 
 ## 📈 GitHub Activity
 
-<div align="center">
+<p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bishalsince2003&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bishalsince2003&theme=github-dark&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=bishalsince2003&theme=github-dark-blue&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-## 🎯 2026 Roadmap
+## 🎯 2026 Goals
 
-
-✅ Complete 100 Days of Python
-
-🔄 Build Production-Ready Projects
-
-🔄 Learn APIs & Automation
-
-🔄 Strengthen DSA
-
-🔄 Full Stack Development
-
-🔄 Open Source Contributions
-
+- Complete 100 Days of Python
+- Build Production-Level Projects
+- Strengthen DSA
+- Learn APIs & Automation
+- Contribute to Open Source
 
 ---
 
-## 📌 Current Mission
+## 📬 Connect
 
-
-Build.
-Break.
-Learn.
-Repeat.
-
-
----
-
-<div align="center">
-
-### ⭐ Featured Repository
-
-🐍 **100 Days of Python**
-
-*A journey from Python fundamentals to real-world projects.*
-
-</div>
-
----
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/bishal-kumar-54b410248">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:bishalsinghtas@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/bishalsince2003">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### 💭 Developer Mindset
+### 💭
 
-> *"Consistency beats intensity. Every project is another step forward."*
-
-</div>
-
----
-
-<div align="center">
-
-### ☕ Currently
-
-
-Learning...
-Building...
-Improving...
-Repeating...
-
+> *"Consistency compounds. Every commit is progress."*
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00C9FF,100:92FE9D"/>
-
-</div>
-
